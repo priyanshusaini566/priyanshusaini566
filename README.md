@@ -1,71 +1,54 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODVqYjkyN3E4Z2FvZTR0ZW5sa2VsdWhjYXExdng5cDExdGp2N3d2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.gif"  />
+  <img src="https://capsule-render.vercel.app/render?type=glass&color=auto&height=250&section=header&text=Priyanshu%20Saini&fontSize=70&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Developer&descSize=20&descAlignY=60" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/priyanshu-saini-3a2798326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/ps56646i4" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_.musicalmasters._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@priyanshusainimusic" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32" />
+  </a>
 </div>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshusaini566.priyanshusaini566&left_color=darkblue&right_color=black"  />
-</div>
+### 👩‍💻 About Me
+🔭 Current Focus: I am a 2nd-year B.Tech Computer Science & Engineering student at Arya College of Engineering, Kukas, maintaining a distinguished CGPA of 9.69.
 
-###
+🤖 AI & Deep Learning: I recently completed an internship with IBM SkillsBuild focusing on Generative AI, where I moved from a learner to a builder by mastering prompt engineering and AI tool integration.
 
-<h1 align="center">Hello myself Priyanshu Saini(Software Engineer)</h1>
+💻 Technical Projects: I have successfully developed a Plant Disease Detection system using CNN (Convolutional Neural Networks) and built the Ultimate AI Resume Builder, a web-based tool that uses AI to help users generate structured, job-ready resumes.
 
-###
+🛠️ Tech Stack: My core expertise lies in Python, C++, and JavaScript, with a strong foundation in DBMS, OOPS, and Linux environments.
 
-<h3 align="left">👩‍💻  About Me</h3>
+🌟 Leadership & Creativity: Beyond coding, I am an Event Organizer for college festivals and a lead member of 'Brahmaraag', our college band, which helps me bring a creative and collaborative perspective to technical teams.
 
-###
+🎯 Professional Goal: I am currently seeking opportunities as a Junior Backend or AI Engineer to apply my skills in building agentic workflows and deploying scalable AI solutions.
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m pursuing B. Tech<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I listen music</p>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
-
+### 🛠 Languages and Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,java,aws,html,css,linux,vscode,github,tailwind&theme=dark" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+### 🔥 My Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshusaini566&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusaini566&show_icons=true&theme=tokyonight&border_radius=20&bg_color=00000000" height="180" />
+  <img src="https://streak-stats.demolab.com?user=priyanshusaini566&theme=tokyonight&border_radius=20&background=00000000" height="180" />
 </div>
-
-###
