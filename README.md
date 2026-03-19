@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glass&color=auto&height=250&section=header&text=Priyanshu%20Saini&fontSize=70&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Developer&descSize=20&descAlignY=60" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMyZ2JwbTNvZTQ5cHl6ZGkxd290cTNvNXVhd3BtdmV2dWtvdTU1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" height="170" />
 </div>
 
 <br>
