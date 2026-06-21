@@ -25,20 +25,15 @@
 <br>
 
 ### 👩‍💻 About Me
-🔭 Current Focus: I am a 2nd-year B.Tech Computer Science & Engineering student at Arya College of Engineering, Kukas, maintaining a distinguished CGPA of 9.69.
+🔭 Current Focus: I am a 3rd-year B.Tech Computer Science & Engineering student at Arya College of Engineering, Kukas, maintaining a distinguished CGPA of 9.65 with the strong foundation in field of data science.
 
-🤖 AI & Deep Learning: I recently completed an internship with IBM SkillsBuild focusing on Generative AI, where I moved from a learner to a builder by mastering prompt engineering and AI tool integration.
+🤖 AI & Deep Learning: I recently completed an internship with IBM SkillsBuild focusing on Generative AI, where I moved from a learner to a builder by mastering prompt engineering and AI tool integration and now i am gaining experience of corporate in zeetron networks pvt. limite
 
 💻 Technical Projects: I have successfully developed a Plant Disease Detection system using CNN (Convolutional Neural Networks) and built the Ultimate AI Resume Builder, a web-based tool that uses AI to help users generate structured, job-ready resumes.
 
-🛠️ Tech Stack: My core expertise lies in Python, C++, and JavaScript, with a strong foundation in DBMS, OOPS, and Linux environments.
+🛠️ Tech Stack: My core expertise lies in Python,Tkinter,SQL,C++, and JavaScript, with a strong foundation in DBMS, OOPS, and Linux environments.
 
-🌟 Leadership & Creativity: Beyond coding, I am an Event Organizer for college festivals and a lead member of 'Brahmaraag', our college band, which helps me bring a creative and collaborative perspective to technical teams.
-
-🎯 Professional Goal: I am currently seeking opportunities as a Junior Backend or AI Engineer to apply my skills in building agentic workflows and deploying scalable AI solutions.
-
-
-
+🎯 Professional Goal: I am currently seeking opportunities as a data scientist to apply my skills in building agentic workflows and deploying scalable AI solutions.
 
 ### 🛠 Languages and Tools
 <div align="left">
