@@ -33,7 +33,7 @@
 
 🛠️ Tech Stack: My core expertise lies in Python,Tkinter,SQL,C++, and JavaScript, with a strong foundation in DBMS, OOPS, and Linux environments.
 
-🎯 Professional Goal: I am currently seeking opportunities as a data scientist to apply my skills in building agentic workflows and deploying scalable AI solutions.
+🎯 Professional Goal: I am currently seeking opportunities as a data scientist to apply my skills in building agentic workflows and deploying scalable AI solutions.I am also working as a professional research engineer.
 
 ### 🛠 Languages and Tools
 <div align="left">
