@@ -27,7 +27,7 @@
 ### 👩‍💻 About Me
 🔭 Current Focus: I am a 3rd-year B.Tech Computer Science & Engineering student at Arya College of Engineering, Kukas, maintaining a distinguished CGPA of 9.65 with the strong foundation in field of data science.
 
-🤖 AI & Deep Learning: I am recently intern at zeetron networks pvt. limited as a data scientist, where I moved from a learner to building models by analyzing and cleaning the data and its insights.
+🤖 AI & Deep Learning: I am recently intern at zeetron networks private limited as a data scientist, where I moved from a learner to building models by analyzing and cleaning the data and its insights.
 
 💻 Technical Projects: I have successfully developed a Plant Disease Detection system using CNN (Convolutional Neural Networks) and built the Ultimate AI Resume Builder, a web-based tool that uses AI to help users generate structured, job-ready resumes.
 
