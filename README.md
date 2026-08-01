@@ -29,7 +29,7 @@
 
 🤖 AI & Deep Learning: I am recently intern at zeetron networks private limited as a data scientist, where I moved from a learner to building models by analyzing and cleaning the data and its insights.
 
-💻 Technical Projects: I have successfully developed a Plant Disease Detection system using CNN (Convolutional Neural Networks) and built the Ultimate AI Resume Builder, a web-based tool that uses AI to help users generate structured, job-ready resumes.
+💻 Technical Projects: I have successfully developed a Plant Disease Detection system using CNN (Convolutional Neural Networks) and built the Ultimate AI Resume Builder, a web-based tool that uses AI to help users generate structured, job-ready resumes, Car price prediction AI tool.
 
 🛠️ Tech Stack: My core expertise lies in Python,Tkinter,SQL,Power BI, C++, and JavaScript, with a strong foundation in DBMS, OOPS, and Linux environments.
 
