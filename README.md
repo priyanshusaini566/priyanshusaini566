@@ -75,7 +75,6 @@
   <img src="https://raw.githubusercontent.com/priyanshusaini566/priyanshusaini566/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-> ⚠️ This only renders **after** the GitHub Action below is set up in the `priyanshusaini566/priyanshusaini566` repo (one-time, ~2 minutes) — see setup steps below.
 
 <br>
 
