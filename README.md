@@ -55,17 +55,21 @@
 
 <br>
 
-
-
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/priyanshusaini566/priyanshusaini566/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-
 <br>
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusaini566&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="activity graph" />
+</div>
+
+<br>
 
 ---
 
