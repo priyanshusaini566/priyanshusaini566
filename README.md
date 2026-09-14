@@ -2,7 +2,9 @@
 
 # 👋 Hey, I'm **Priyanshu Saini**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMyZ2JwbTNvZTQ5cHl6ZGkxd290cTNvNXVhd3BtdmV2dWtvdTU1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" height="240" align="center"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMyZ2JwbTNvZTQ5cHl6ZGkxd290cTNvNXVhd3BtdmV2dWtvdTU1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" height="240" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Science+%7C+AI%2FML+%7C+Python;Turning+Data+into+Intelligent+Systems+%F0%9F%A7%A0;Building+Agentic+AI+Workflows+%E2%9A%A1;Learning.+Building.+Deploying.+%F0%9F%9A%80" />
 
