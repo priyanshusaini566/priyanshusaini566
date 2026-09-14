@@ -78,20 +78,6 @@
 
 <br>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusaini566&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-</div>
-
-<br>
-
-<div align="center">
-
-### 💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 ---
 
