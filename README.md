@@ -55,19 +55,7 @@
 
 <br>
 
-## 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusaini566&show_icons=true&theme=tokyonight&border_radius=20&bg_color=00000000&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=priyanshusaini566&theme=tokyonight&border_radius=20&background=00000000&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusaini566&layout=compact&theme=tokyonight&border_radius=20&bg_color=00000000&hide_border=true" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusaini566&theme=tokyonight&column=4&margin-w=8&margin-h=8&no-frame=true&no-bg=true" height="170" />
-</div>
-
-<br>
 
 ## 🐍 Contribution Snake
 
