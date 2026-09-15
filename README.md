@@ -67,7 +67,6 @@ class Priyanshu:
 
 ## 🚀 What I'm Currently Doing
 
-* 🔭 Working on **Data Science & AI/ML projects**
 * 🤖 Exploring **Agentic AI and AI-powered workflows**
 * 📊 Learning how to turn raw data into meaningful insights
 * 🧠 Practicing **DSA & problem solving**
