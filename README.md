@@ -48,7 +48,6 @@ class Priyanshu:
         "Machine Learning",
         "Deep Learning",
         "Generative AI",
-        "Agentic AI",
         "Problem Solving"
     ]
 
