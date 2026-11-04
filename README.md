@@ -85,7 +85,7 @@ class Priyanshu:
 
 CNN-based image classification system designed to identify plant diseases from leaf images.
 
-**Tech:** Python • CNN • Deep Learning • Image Processing
+**Tech:** Python • CNN • Deep Learning 
 
 </td>
 
