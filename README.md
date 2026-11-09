@@ -83,7 +83,7 @@ class Priyanshu:
 
 ### 🌱 Plant Disease Detection
 
-CNN-based image classification system designed to identify plant diseases from leaf images.
+CNN-based image classification system designed to identify plant diseases from images.
 
 **Tech:** Python • CNN • Deep Learning 
 
