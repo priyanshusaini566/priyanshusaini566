@@ -209,7 +209,6 @@ AI-based predictive maintenance system using audio signals to detect motor condi
  ├── Data Science Internship
  ├── Deep Learning
  ├── Generative AI
- ├── Agentic AI
  └── Production-oriented ML projects
  │
  ▼
