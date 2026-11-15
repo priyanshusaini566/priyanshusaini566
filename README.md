@@ -93,7 +93,7 @@ CNN-based image classification system designed to identify plant diseases from i
 
 ### 📄 Ultimate AI Resume Builder
 
-AI-powered resume generation platform designed to create professional, job-ready resumes.
+AI-powered resume generation platform designed to create professional, job-ready resume.
 
 **Tech:** HTML • CSS • JavaScript • AI
 
